@@ -1,4 +1,3 @@
-# sri
 #include <stdio.h>
 int main()
 {
@@ -19,7 +18,7 @@ int main()
 			}
 		}
 	}
-	for(i=1;i<=k;i++)
+	for(i=1;i<=n-k;i++)
 	{
 		printf("%d",a[i]);
 	}
